@@ -1,0 +1,32 @@
+
+types {
+    application/json                                 glb gltf;
+
+    text/html                                        html htm shtml;
+    text/css                                         css;
+    text/xml                                         xml;
+    text/xml                                         xaml;
+    image/gif                                        gif;
+    image/jpeg                                       jpeg jpg;
+    application/javascript                           js;
+    application/wasm                                 wasm;
+
+    text/plain                                       txt;
+
+    image/png                                        png;
+    image/svg+xml                                    svg svgz;
+    image/tiff                                       tif tiff;
+    image/vnd.wap.wbmp                               wbmp;
+    image/webp                                       webp;
+    image/x-icon                                     ico;
+
+    font/woff                                        woff;
+    font/woff2                                       woff2;
+    font/truetype                                    ttf;
+
+    application/json                                 json;
+
+    audio/mpeg                                       mp3;
+    audio/ogg                                        ogg;
+    audio/x-m4a                                      m4a;
+}
